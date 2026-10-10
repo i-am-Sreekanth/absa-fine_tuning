@@ -1,0 +1,300 @@
+{"sentence_id": "2942", "text": "I Love my new computer!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2156", "text": "Of course, for a student, weight is always an issue.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1948", "text": "You can't even get a satellite card which is why I bought to begin with.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2809", "text": "I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1950", "text": "Since I never really got to use this, I can't comment on anything except what went wrong after trying 2 of them.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1251", "text": "I got this laptop on Black Friday.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "879", "text": "and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself.", "raw_output": "{\"aspects\":[{\"aspect\":\"power supply\",\"sentiment\":\"negative\"},{\"aspect\":\"weight\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "265", "text": "No tutorials on the display.", "raw_output": "{\"aspects\":[{\"aspect\":\"display\",\"sentiment\":\"negative\"},{\"aspect\":\"tutorials\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "1568", "text": "This mac is great!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2229", "text": "i asked many people, search on the net and also read reviews here in best buy.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "625", "text": "No temporary replacement, they are out of replacements because \"many computers had problems with the Nvidia chipset\"-Inquired status of repair.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "957", "text": "\u00a0 By this time I was regretting ever SEEING this machine on the shelf!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "449", "text": "I love the 15\" MacBook Pro.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1025", "text": "I am not one to throw things like this around but it is a laptop so\u00a0carrying\u00a0it around does seem to mean it will be jerked possibly a little, while driving a car and carrying it into where ever you are using it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2362", "text": "Quality Display  I love HP,, it's the only computer/printer we will buy.", "raw_output": "{\"aspects\":[{\"aspect\":\"Display\",\"sentiment\":\"positive\"},{\"aspect\":\"quality\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "270", "text": "The Apple MC371LL/A 2.4Ghz 15.4-inch MacBook Pro Notebook is a horrible waste of money.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1612", "text": "The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.", "raw_output": "{\"aspects\":[{\"aspect\":\"graphics\",\"sentiment\":\"positive\"},{\"aspect\":\"screen\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1268", "text": "Could not keep up with me and finally the hard drive went out.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "726", "text": "It turns out that this hp pc had been preciously sold by Wal Mart.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "307", "text": "My MacBook Pro is no exception.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1688", "text": "I believe this is because I was more active than the average user, meaning I average about three \"tabs\".", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "773", "text": "I'm tired of the inept service.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1927", "text": "By the time I was finally able to get a work order to get it fixed I had been without my computer for almost a week while I was an Online College Student, so it was very inconvenient and I had to send it off and be without it while it was being fixed also.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1382", "text": "I just bought this laptop 3 days ago.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "647", "text": "*6th week*-They are not responding to my emails asking when they expect to dispatch the new unit...", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2771", "text": "So think about factoring those things in when you purchase.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "369", "text": "I work with kids and they love making short videos on there.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1739", "text": "Design: very durable.", "raw_output": "{\"aspects\":[{\"aspect\":\"Design\",\"sentiment\":\"positive\"},{\"aspect\":\"durable\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "730", "text": "Much of which HP ended up paying for.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1129", "text": "Did I mention everything about it, from size to weight to keyboard screams BULK?", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1657", "text": "Theres a built in camera with special effects- for video and photography.", "raw_output": "{\"aspects\":[{\"aspect\":\"built in camera\",\"sentiment\":\"positive\"},{\"aspect\":\"special effects\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2168", "text": "There is a backlit keyboard which is perfect for typing in the dark.", "raw_output": "{\"aspects\":[{\"aspect\":\"backlit keyboard\",\"sentiment\":\"positive\"},{\"aspect\":\"typing\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2228", "text": "first i have been searching for long time before i decided to get mac.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1352", "text": "This is my first computer purchase", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2676", "text": "\" This isn't a big deal, I haven't noticed the issue with DVDs or other media, only through USB output.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2900", "text": "I enjoy very much my new Toshiba, purchased specifially for attending online schooling.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "907", "text": "The people are frustrating to work with, the product itself is very cheaply made, and the accessories are less than satisfactory.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1546", "text": "Finally, I should note that I took the 2GB RAM stick from my old EeePC and installed it before I even powered on for the first time.", "raw_output": "{\"aspects\":[{\"aspect\":\"2GB RAM stick\",\"sentiment\":\"positive\"},{\"aspect\":\"power on\",\"sentiment\":\"neutral\"}],\"overall\":\"mixed\"}"}
+{"sentence_id": "1449", "text": "The apple systems are over priced luxurys that arn't worth what they are being charged for, this model's specifications are far from being impressive and they only thing you get out of this is the apple name.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "186", "text": "Not working = bad", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1308", "text": "The guy then said that if I insist on having the hinge tightened, they can do it for me but I have to accept the condition after the \"repair\".", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2651", "text": "I have recommended this laptop to everyone I know who is buying one.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2232", "text": "mac is extremely different than any other laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1778", "text": "The battery life also doesn't keep up with the claim but still I think macbook is much ahead from the rest of the pack.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1391", "text": "the mouse pad and buttons are the worst i've ever seen.", "raw_output": "{\"aspects\":[{\"aspect\":\"mouse pad\",\"sentiment\":\"negative\"},{\"aspect\":\"buttons\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2379", "text": "My last laptop gave me a constant battle even though it was also completely new.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2326", "text": "Winters is on it's way and I imagine it will be cozy.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "761", "text": "With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "859", "text": "Its not just slow on the internet, its slow in general.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2835", "text": "it has times were it freezes for 10 seconds and then starts again.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1077", "text": "(3DMARK6 score is only 8500).", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "977", "text": "It will be returned in the state to which it was shipped Michigan.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "3060", "text": "I mainly use it for email, internet, and managing personal files (pics, vids, etc.).", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1064", "text": "For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.", "raw_output": "{\"aspects\":[{\"aspect\":\"Drivers/Applications DVD\",\"sentiment\":\"neutral\"},{\"aspect\":\"Bluetooth\",\"sentiment\":\"neutral\"}],\"overall\":\"neutral\"}"}
+{"sentence_id": "2478", "text": "All the things you can do with the trackpad make navigating around the computer and its programs so much simpler, quicker, and easier.", "raw_output": "{\"aspects\":[{\"aspect\":\"trackpad\",\"sentiment\":\"positive\"},{\"aspect\":\"programs\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1502", "text": "But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1266", "text": "What a mistake!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "792", "text": "The letter A stopped working after the first week.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1222", "text": "I took it back for a full refund.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2872", "text": "The Toshiba laptop was a great purchase.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "897", "text": "Enjoy your sitdown", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1141", "text": "\u00a0 It's a long and tirring process that after a while it seems like their game plan was to wear you out so you would want to give up on contacting them.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2328", "text": "I investigated netbooks and saw the Toshiba NB305-N410BL.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1686", "text": "Another thing I might add is the battery life is excellent.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2211", "text": "The graphics on this computer are also stellar - very clear and vivid.", "raw_output": "{\"aspects\":[{\"aspect\":\"graphics\",\"sentiment\":\"positive\"},{\"aspect\":\"clear\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "699", "text": "I would recommend anyone to buy from pcconnection express.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2685", "text": "Basic computer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1146", "text": "\u00a0 Remember to do your research first before consider buying a toshiba product.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1145", "text": "\u00a0 I'll rather be out of date then spend more money on toshiba.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2562", "text": "You just get a trial version either way.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1556", "text": "As it turns out, I just didn't know any better.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1976", "text": "Which was way too much money.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1757", "text": "Great Laptop for the price, works well with action pack games.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2595", "text": "Keyboard was also very nice and had a solid feel.", "raw_output": "{\"aspects\":[{\"aspect\":\"Keyboard\",\"sentiment\":\"positive\"},{\"aspect\":\"feel\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2918", "text": "If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel processor.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1142", "text": "\u00a0 And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2484", "text": "I've had the MacBook Pro 15 for about three weeks, and it really is a great computer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "739", "text": "Very dissappointed becase I have had toshibas for years, and never a issue.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2422", "text": "I need graphic power to run my Adobe Creative apps efficiently.", "raw_output": "{\"aspects\":[{\"aspect\":\"graphic power\",\"sentiment\":\"negative\"},{\"aspect\":\"Adobe Creative apps\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "1133", "text": "I got what I paid for.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2346", "text": "I'm already hooked on the sleek look and dependability that this laptop has shown.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "162", "text": "/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...", "raw_output": "{\"aspects\":[{\"aspect\":\"cooling system\",\"sentiment\":\"positive\"},{\"aspect\":\"grafics card\",\"sentiment\":\"positive\"},{\"aspect\":\"RAM\",\"sentiment\":\"positive\"},{\"aspect\":\"LED backlit screen\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2043", "text": "HP didn't fix it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1981", "text": "On 3 July 2004, I purcased this model at Best Buy for about $150", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2263", "text": "This laptop rocks (only wish it could run SolidWorks CAD - which Apple doesn't support)!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "215", "text": "I like it!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1680", "text": "Mom, Dad, Brother, sister, You name it!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "702", "text": "Okay, let's just start out by saying I am in no way a computer techy.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2968", "text": "Otherwise, all other features are a 1", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2980", "text": "I can barely use any usb devices because they will not stay connected properly.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1954", "text": "I took it back to Best Buy where they were so helpful and immediately gave me a new one.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2404", "text": "We used PC products - it seemed simpler to continue with the same thing.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "585", "text": "It is the easiest computer I have ever used", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1925", "text": "When I got my laptop back after this first instance it worked okay for a little bit then I started expeirencing issues again, everything from programs and drivers failing again, to it powering off for no reason, to locking up and freezing and just all sorts of issues.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "107", "text": "My laptop now has no battery.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1920", "text": "I was constantly having to roll back the computer after doing updates.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1670", "text": "If you don't like fingerprints, this might not be the laptop for you.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1094", "text": "This computer was bought because I wanted \"top of the line\", fast, reliable, HA.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1104", "text": "The first programm I switched on was a game for my children.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1498", "text": "I love this laptop, and use it everyday to do something, and never lets me down.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "963", "text": "\u00a0 Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.", "raw_output": "{\"aspects\":[{\"aspect\":\"mousepad\",\"sentiment\":\"positive\"},{\"aspect\":\"keys\",\"sentiment\":\"positive\"},{\"aspect\":\"casing\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2847", "text": "It doesn't have a lot of frills, but I didn't need any, and being able to buy what I needed, and not more than I needed was very important.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1910", "text": "\u00a0 They basically told me that the machine would be problem free now.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1110", "text": "Going to bring it to service today.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1486", "text": "All the problems I have had with PC's are solved with a Mac: the issue of overheating-my Dell was always overheating and not working properly or simply shutting off, and the issue of viruses and contaminants-my HP completely quit working within2 years of purchasing it, with no inexpensive way of fixing it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "800", "text": "So when you do call to complain about the hunk of metal you get the joy of speaking with a bunch of people you cant understand.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2932", "text": "To be honest i think it was faulty equipment or something but idk.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1476", "text": "The image is great, and the soud is excelent.", "raw_output": "{\"aspects\":[{\"aspect\":\"image\",\"sentiment\":\"positive\"},{\"aspect\":\"soud\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2931", "text": "I babyed the heck out of it and i still do.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "46", "text": "It's a bummer and one out of five is being kind.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2112", "text": "Even out of warranty!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1079", "text": "Second HDD cover has walls inside that need to be broken if you what to install one.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1161", "text": "At least those computers didn't just die on me like this one.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2219", "text": "The touchpad is very intuitive, so much so that I never want to use buttons to click again!", "raw_output": "{\"aspects\":[{\"aspect\":\"touchpad\",\"sentiment\":\"positive\"},{\"aspect\":\"buttons\",\"sentiment\":\"negative\"}],\"overall\":\"mixed\"}"}
+{"sentence_id": "1609", "text": "It was definelty a smart move.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1365", "text": "Purchased a Toshiba Lap top it worked good until just after the warrenty went out.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "283", "text": "I went to my local Best Buy looking for a new laptop since mine broke.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "279", "text": "The MacBook is way too overpriced for something so simple and chaotic.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2837", "text": "the mouse is way way way to sensitve.", "raw_output": "{\"aspects\":[{\"aspect\":\"mouse\",\"sentiment\":\"negative\"},{\"aspect\":\"sensitve\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "434", "text": "I sent it to them to fix in perfect condition but for what was wrong with it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1709", "text": "The cool thing about the Mac Book was that I went on my honeymoon and shot a bunch of pictures and movies with my iPhone, then I came back and put them onto my Macbook and made a pretty good DVD movie with all the pictures and videos from my trip.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "326", "text": "I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2039", "text": "I waited another month for approval and for them to \"BUILD\" me a new laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "511", "text": "He didn't work for sony, he was just approved to fix their crappy products.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2543", "text": "i give this laptop a five star review i love it and it has done chams for me.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "721", "text": "both upgrades were quickly accomplished after purchasing the necessary Product Key.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "655", "text": "It was truly a great computer costing less than one thousand bucks before tax.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2065", "text": "After purchasing this thing, I find out that I need a special interface device to connect my camera, and that it cannot be purchased at the store - only on line.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1078", "text": "The screen is nice, side view angles are pretty good.", "raw_output": "{\"aspects\":[{\"aspect\":\"screen\",\"sentiment\":\"positive\"},{\"aspect\":\"side view angles\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1799", "text": "(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.)", "raw_output": "{\"aspects\":[{\"aspect\":\"SATA controller\",\"sentiment\":\"neutral\"},{\"aspect\":\"motherboard chip\",\"sentiment\":\"neutral\"}],\"overall\":\"neutral\"}"}
+{"sentence_id": "2068", "text": "I had meant to purchase the NB205 and bought this one by accident (long story).", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2290", "text": "I love the dock where I can simply drop a file ontop of a particular program, and the program will simply open that file.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "575", "text": "I work in film editing and post production, so I need a laptop that not only has power, but memory and speed as well.", "raw_output": "{\"aspects\":[{\"aspect\":\"memory\",\"sentiment\":\"positive\"},{\"aspect\":\"speed\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1663", "text": "It is so great, I can Hardly ever take my hands off it!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1814", "text": "might have to buy one for me now, since I use it all the time.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1433", "text": "Nightly my computer defrags itself and runs a virus scan.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2186", "text": "Still trying to learn how to use it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2908", "text": "Not super fancy, but not super expensive either.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2830", "text": "Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2533", "text": "It seems to be incompatible with everything else.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1383", "text": "The right speaker did not work.", "raw_output": "{\"aspects\":[{\"aspect\":\"speaker\",\"sentiment\":\"negative\"},{\"aspect\":\"work\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2743", "text": "But, I would recommend this product.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2509", "text": "Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.", "raw_output": "{\"aspects\":[{\"aspect\":\"versions of these programs\",\"sentiment\":\"positive\"},{\"aspect\":\"graphically\",\"sentiment\":\"positive\"},{\"aspect\":\"functionally\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "414", "text": "I also bought one for my wife, and 3 for my office.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2895", "text": "It's super fast and a great value for the price!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1342", "text": "No big deal.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "164", "text": "I brought this laptop last friday, and originally it worked fantastic.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2085", "text": "(I found a 2GB stick for a bit under $50) Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "834", "text": "This laptop looks great on the surface: 17\" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.", "raw_output": "{\"aspects\":[{\"aspect\":\"screen\",\"sentiment\":\"positive\"},{\"aspect\":\"price-point\",\"sentiment\":\"positive\"},{\"aspect\":\"boots up\",\"sentiment\":\"positive\"},{\"aspect\":\"runs\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1744", "text": "Supplied software: The software that comes with this machine is greatly welcomed compared to what Windows comes with.", "raw_output": "{\"aspects\":[{\"aspect\":\"software\",\"sentiment\":\"positive\"},{\"aspect\":\"Windows\",\"sentiment\":\"neutral\"}],\"overall\":\"mixed\"}"}
+{"sentence_id": "2580", "text": "But let me tell you, the mac book pro is so professional.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2857", "text": "this one, in my opinion, might be a lemon!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1024", "text": "Two times with in one month.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2979", "text": "Apparently they are defective since they are not securely attached.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "825", "text": "\u00a0 Will probably never buy a HP again.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1256", "text": "Wasted me at least 8 hours of installation time.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1053", "text": "Adjust the sensitivity since it's not that responsive to begin with.", "raw_output": "{\"aspects\":[{\"aspect\":\"sensitivity\",\"sentiment\":\"negative\"},{\"aspect\":\"responsive\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2242", "text": "The graphics are stunning.", "raw_output": "{\"aspects\":[{\"aspect\":\"graphics\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1258", "text": "It seemed to be a very nice laptop except I was not able to load my Garmin GPS software or Microsoft Office 2003.", "raw_output": "{\"aspects\":[{\"aspect\":\"load my Garmin GPS software\",\"sentiment\":\"negative\"},{\"aspect\":\"Microsoft Office 2003\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "198", "text": "do a quick search on the internet see if im the only one.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "218", "text": "I came from the Dell Laptops and now I am so glad I switched when I needed a new laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "281", "text": "I think this computer is super lame.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1520", "text": "I am very Happy!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1070", "text": "Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2299", "text": "You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1890", "text": "Laptop was in new condition and operational, but for the audio problem when 1st sent for repair.", "raw_output": "{\"aspects\":[{\"aspect\":\"operational\",\"sentiment\":\"positive\"},{\"aspect\":\"audio problem\",\"sentiment\":\"negative\"}],\"overall\":\"mixed\"}"}
+{"sentence_id": "1614", "text": "I believe that the quality of a mac is worth the price.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "581", "text": "I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2259", "text": "I can actually get work done with this MAC, and not fight with it like my tired old PC laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2994", "text": "The only downfall is the volume control.", "raw_output": "{\"aspects\":[{\"aspect\":\"volume control\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2934", "text": "The internet speed is spectacular.", "raw_output": "{\"aspects\":[{\"aspect\":\"internet speed\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "298", "text": "I got my MacBook Pro because I wanted to do all the stuff I need to do without worrying about the system quitting on me or freezing for a few minutes.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1700", "text": "HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2548", "text": "The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!", "raw_output": "{\"aspects\":[{\"aspect\":\"track pad\",\"sentiment\":\"positive\"},{\"aspect\":\"Apple!\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1408", "text": "Yes, the computer was light weight, less expensive than the average laptop, and was pretty self explantory in use.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1894", "text": "I baby my electronics so I know for a fact it was defective and not anything that I did to it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2197", "text": "Would buy 100 more of these if I could.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2907", "text": "No problems, no lock ups, no disappointments.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2490", "text": "2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1994", "text": "These new problems were the final straws;", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "196", "text": "Do yourself a favor, this is not a fake story trying to hurt alienware...", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2724", "text": "Only issue is that it is a little slow, and I'm fixing that by adding more RAM.", "raw_output": "{\"aspects\":[{\"aspect\":\"RAM\",\"sentiment\":\"negative\"},{\"aspect\":\"slow\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2462", "text": "It's just as fast with one program open as it is with sixteen open.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2118", "text": "But in fact it is totally the opposite.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "657", "text": "It bluescreened on me without any warning, running simply basic Chrome.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2834", "text": "it cant fuction well with lots of webpages open at once.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "420", "text": "I also experience the same with my MacBook Air.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "124", "text": "It is not ideal for children because of the temp.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2785", "text": "Also, the extended warranty was a problem.", "raw_output": "{\"aspects\":[{\"aspect\":\"extended warranty\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "1660", "text": "Theres also iDVD, a program dedicated to putting all your favorite media together- photos, recordings, video projects into one program so that you can create the perfect memoir for your parents, family, siblings, and any other person important in your life that there may be.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "604", "text": "As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .....", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "459", "text": "After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2731", "text": "The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.", "raw_output": "{\"aspects\":[{\"aspect\":\"USB\",\"sentiment\":\"negative\"},{\"aspect\":\"touchpad\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "1387", "text": "This computer is good for 10 days then it sucks for the rest of your life.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1503", "text": "So this was great for me.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2454", "text": "The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "429", "text": "The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1957", "text": "So I got another netbook which I love!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "348", "text": "i love the size of the computer since i play games on it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2264", "text": "I've saved a lot of time and headaches so far, using my new MacBook Pro.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1459", "text": "\u00a0 i have tried to charge on different batteries with no luck.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "401", "text": "If the number of patrons in the Apple store are any indication, HP and other PC manufacturers need to take note.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1672", "text": "It doesn't bother me though.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2699", "text": "One of them seems to have worked.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2553", "text": "He has replaced his hard drive twice and (of course) has had to pay for antivirus software every year.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "909", "text": "Apparently under the screen there are 2 little screws and when the screen gets moved back and forth, they come loose.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2710", "text": "Came fully loaded - good.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "503", "text": "I have never really been big on downloading anything so I wasn't too worried about getting a virus, plus I thought I was protected by Norton.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "631", "text": "-Complied to their protocol, called number, made \"case\", got an email address to send complaint.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2496", "text": "Mac is not made for gaming.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "432", "text": "I spent alot of money on this product and its been a nightmare.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2550", "text": "The OS is also very user friendly, even for those that switch from a PC, with a little practice you can take full advantage of this OS!", "raw_output": "{\"aspects\":[{\"aspect\":\"OS\",\"sentiment\":\"positive\"},{\"aspect\":\"user\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2584", "text": "The keyboard is like no other laptop keyboard.", "raw_output": "{\"aspects\":[{\"aspect\":\"keyboard\",\"sentiment\":\"positive\"},{\"aspect\":\"laptop keyboard\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2131", "text": "it is an amazing image and it too is holding up quite nicely to little hands grabbing the back of my laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2273", "text": "WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!", "raw_output": "{\"aspects\":[{\"aspect\":\"memory\",\"sentiment\":\"positive\"},{\"aspect\":\"applications\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1085", "text": "WHEN TYPING, LETTERS AND SPACES ARE FREQUENTLY OMITTED REQUIRING THE USER TO REDO MANY WORDS AND SENTENCES.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1154", "text": "So, after Apple replaced the hard drive I enjoyed another 4 months of my new computer, until it froze this morning--completely.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1049", "text": "Can't close the 2nd HDD bay since there are brackets you have to break off (even then, it still doesn't shut) That could be a major flaw for the dual HDD user.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2659", "text": "We haven't had any problems with it at all.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "985", "text": "\u00a0 Acer won't replace the laptop.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "57", "text": "I needed a new computer for graduate school (had never owned a laptop before), and the only reason I didn't purchase a Mac was because my school's website strongly recommended students purchase PCs.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "887", "text": "I'm definitely not hard on laptops and guarantee 100% that no liquid has touched this machine in my presence.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "835", "text": "but it  has a major design flaw.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "480", "text": "This was around three years, maybe four years ago.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1832", "text": "I do find that my MacBook has a lot more bells and whistles than a normal PC especially if you enjoy technology, downloading pictures and graphic design.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2694", "text": "Peformance is good for the price.", "raw_output": "{\"aspects\":[{\"aspect\":\"Performance\",\"sentiment\":\"positive\"},{\"aspect\":\"price\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1979", "text": "Better stick with another brand.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1931", "text": "So in late March, early April 2009 I was without it again for a couple weeks while I had online courses I had to complete and my fiance was in Afghanistan and web conferencing was the best communication method we had.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1210", "text": "returned it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "512", "text": "He came into my house, fiddled around on the computer for a good forty minutes and got ready to leave before it was even done doing what he was doing to it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2028", "text": "During that time, I had to send it back 3 times.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2165", "text": "I made the right decision.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "90", "text": "The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1995", "text": "I edit and burn to DVD a lot of video, so I obviously could not live with a non-functioning drive.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1128", "text": "Keyboard could use some trimming.", "raw_output": "{\"aspects\":[{\"aspect\":\"Keyboard\",\"sentiment\":\"negative\"},{\"aspect\":\"trimming\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2418", "text": "This is another reason to like the Mac.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1419", "text": "\u00a0 I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "989", "text": "I've tried going back to XL but there still problems.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1545", "text": "I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).", "raw_output": "{\"aspects\":[{\"aspect\":\"portability\",\"sentiment\":\"positive\"},{\"aspect\":\"battery life\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2910", "text": "Highly recommend for daily use.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2655", "text": "Great product by Apple with the new great looking design.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1386", "text": "I returned the 2nd laptop for a full refund.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1060", "text": "You will need them if you want to reload the OS (I recommend doing if you can to start fresh and optimal).", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1511", "text": "There are so many wonderful features and benefits to the new MacBook!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "224", "text": "Its hard to encounter a problem on a mac that would require such abrupt action.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2466", "text": "I love the keyboard.", "raw_output": "{\"aspects\":[{\"aspect\":\"keyboard\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "231", "text": "Don't get me wrong, I am no Microsoft hater, I've just managed to turn into a much bigger Apple fan because of this machine.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "704", "text": "Trying to balance all of my roles leaves very little time for me to do anything, so I want to manage my time I do have to be the most efficient.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "889", "text": "If you faintly come close to touching this thing while typing, all craziness may break loose.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2304", "text": "it has 3 usb ports, 1 sd memory card reader and an sd memory car expansion.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2594", "text": "It made the computer much easier to use and navigate.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1", "text": "All I can say is W-O-W.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "794", "text": "not the day received.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "742", "text": "The perfect notebook...", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1195", "text": "I have a business website and every time I have to change something I have to go to the public library to use a PC.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1115", "text": "Other Thoughts: I love newegg, I recommend them to the world however this is just unacceptable.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1450", "text": "The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google \"dell coupons\" you can find codes that take a signifant\u00a0 amount off the price.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "622", "text": "-Called MacHouse Amsterdam to ask for a temporary replacement, no answer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1343", "text": "But my blog is read by my friends and search engine visitors.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "103", "text": "The reality was, it heated up very quickly, and took way too long to do simple things, like opening my Documents folder.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1249", "text": "Honestly, I spent more time waiting for it to unfreeze then actually doing what I got on there for!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2551", "text": "Apple continues to shine and provide a much more enjoyable computer experience!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1949", "text": "My children won't even use it\u00a0 for their school work.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2608", "text": "Our Apple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook and has become such an integral part of completing our daily needs and social networking.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1760", "text": "The apple MacBook is the best investment that I have ever made.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2679", "text": "Also consider the MS Office apps are all trial versions, hope you have your own copies.", "raw_output": "{\"aspects\":[{\"aspect\":\"MS Office apps\",\"sentiment\":\"negative\"},{\"aspect\":\"trial versions\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "2960", "text": "The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.", "raw_output": "{\"aspects\":[{\"aspect\":\"ATI graphics card\",\"sentiment\":\"positive\"},{\"aspect\":\"value\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1500", "text": "I got the black MacBook two years ago and have never regretted it.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1693", "text": "I remind myself from time to time to take off my watch when ever I look at the small scratch that it has caused.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1041", "text": "Loaded with bloatware.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "713", "text": "I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1548", "text": "Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.", "raw_output": "{\"aspects\":[{\"aspect\":\"price\",\"sentiment\":\"positive\"},{\"aspect\":\"performance\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2441", "text": "They are not.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2047", "text": "I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1978", "text": "I have never had an experience like this.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1332", "text": "Do you think I purposely \"destroy\" my netbook, so that I can demand a new set? Do you think it's fun to take public transport all the way to the service center and get a non-satisfactory solution? Or rather NO solution.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2176", "text": "I am so happy to have purchased this computer.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "678", "text": "and plenty of storage with 250 gb(though I will upgrade this and the ram..)", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2696", "text": "I would like to have volume buttons rather than the adjustment that is on the front.", "raw_output": "{\"aspects\":[{\"aspect\":\"volume buttons\",\"sentiment\":\"negative\"},{\"aspect\":\"adjustment\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "189", "text": "1) Payed $2200 for a \"premium\" laptop", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "291", "text": "Not to mention it has shit gigs.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2586", "text": "Oh, it is such a great piece of equipment.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1022", "text": "As well as having the plug in the computer come loose.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2451", "text": "Im glad that it has such great features in it.", "raw_output": "{\"aspects\":[{\"aspect\":\"features\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1885", "text": "If internet connectivity is important I would recommend going with a dell net book for 50 bucks more, or buy a USB wireless card.", "raw_output": "{\"aspects\":[{\"aspect\":\"internet connectivity\",\"sentiment\":\"negative\"},{\"aspect\":\"dell net book\",\"sentiment\":\"neutral\"},{\"aspect\":\"USB wireless card\",\"sentiment\":\"positive\"}],\"overall\":\"mixed\"}"}
+{"sentence_id": "2906", "text": "Excellent product for the money.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "971", "text": "So needless to day, I'm not happy.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1321", "text": "The shop will definitely push the problem to the service center.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "392", "text": "I custom ordered the machine from HP and could NOT understand the techie due to his accent.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2894", "text": "The difference is the Toshiba had a lot more memory and hard drive space.", "raw_output": "{\"aspects\":[{\"aspect\":\"memory\",\"sentiment\":\"positive\"},{\"aspect\":\"hard drive space\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "2022", "text": "It does not even have the software to play a dvd now.", "raw_output": "{\"aspects\":[{\"aspect\":\"software\",\"sentiment\":\"negative\"},{\"aspect\":\"play a dvd\",\"sentiment\":\"negative\"}],\"overall\":\"negative\"}"}
+{"sentence_id": "391", "text": "I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.", "raw_output": "{\"aspects\":[{\"aspect\":\"extra memory\",\"sentiment\":\"positive\"},{\"aspect\":\"screen\",\"sentiment\":\"positive\"},{\"aspect\":\"DVD\",\"sentiment\":\"positive\"},{\"aspect\":\"CD burners\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1240", "text": "I'm not going to lie, I've never really liked the Acer brand in general.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2019", "text": "The computer would not ever cut back on.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "801", "text": "Then to make matters worst, there is noone that they can transfer you to.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "446", "text": "I love the glass touchpad.", "raw_output": "{\"aspects\":[{\"aspect\":\"glass touchpad\",\"sentiment\":\"positive\"}],\"overall\":\"positive\"}"}
+{"sentence_id": "1528", "text": "I have had to call with a few questions or issues and they have helped me for free, even without the warranty.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "1939", "text": "This laptop has left me with a HORRIBLE taste in my mouth for Acer brand products.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "525", "text": "Just a month and a half or two months ago, my VAIO crashed again.", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}
+{"sentence_id": "2384", "text": "So far, so good!", "raw_output": "{\"aspects\":[],\"overall\":\"neutral\"}"}

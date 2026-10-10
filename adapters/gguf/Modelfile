@@ -1,0 +1,12 @@
+FROM Qwen2.5-1.5B-Instruct.Q4_K_M.gguf
+
+# Trained on raw concatenated instruction/completion text (see
+# src/model_config.py:PROMPT_TEMPLATE) — never wrapped in Qwen's chat
+# template. This passthrough template stops Ollama from applying its
+# default chat wrapping, which this model never saw during fine-tuning.
+# Without this, prompts would be silently wrapped in <|im_start|>/... turn
+# markers the model wasn't trained to expect.
+TEMPLATE """{{ .Prompt }}"""
+
+PARAMETER temperature 0
+PARAMETER num_predict 200

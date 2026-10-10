@@ -1,0 +1,15 @@
+*.md
+*.txt
+docs/
+demo.py
+
+.venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+adapters/gguf/*.gguf
+adapters/final/*.safetensors
+!README.md
+!**/README.md

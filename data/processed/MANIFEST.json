@@ -1,0 +1,16 @@
+{
+  "random_seed": 42,
+  "source_files": {
+    "train_val_test": "data/raw/semeval/Laptop_Train_v2.xml",
+    "extraction_check": "data/raw/semeval/Laptops_Test_Data_phaseB.xml"
+  },
+  "conflict_sentences_dropped": 43,
+  "splits": {
+    "train": 2402,
+    "val": 300,
+    "test": 300
+  },
+  "extraction_check_sentences": 800,
+  "prompt_template_source": "src/model_config.py:PROMPT_TEMPLATE",
+  "target_schema_source": "src/target_schema.py:build_target"
+}

@@ -1,0 +1,743 @@
+review_id,sentence_idx,aspect_raw,aspect_normalized,sentiment,Product,ReviewStar
+4,0,battery performance,battery performance,negative,boAt Rockerz 255,3
+4,0,sounds quality,sounds quality,positive,boAt Rockerz 255,3
+5,0,connect,connect,positive,boAt Rockerz 255,1
+5,0,music experience,music experience,positive,boAt Rockerz 255,1
+6,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+6,0,quality,quality,positive,Sennheiser CX 6.0BT,5
+6,1,headset,headset,positive,Sennheiser CX 6.0BT,5
+6,1,quality,quality,positive,Sennheiser CX 6.0BT,5
+7,0,Mic,mic,negative,Sennheiser CX 6.0BT,1
+8,0,sounds,sounds,negative,boAt Rockerz 255,1
+8,0,battery life,battery life,negative,boAt Rockerz 255,1
+9,0,ear phones,ear phones,positive,Sennheiser CX 6.0BT,3
+9,1,sound quality,sound quality,positive,Sennheiser CX 6.0BT,3
+9,2,ear phones,ear phones,negative,Sennheiser CX 6.0BT,3
+9,2,sennheiser website,sennheiser website,neutral,Sennheiser CX 6.0BT,3
+10,0,budget,budget,positive,boAt Rockerz 255,5
+10,0,Bluetooth headphone,bluetooth headphone,positive,boAt Rockerz 255,5
+10,0,earphone,earphone,positive,boAt Rockerz 255,5
+12,0,speaker,speaker,negative,boAt Rockerz 255,1
+13,0,sound,sound,positive,Sennheiser CX 6.0BT,4
+13,1,Sennheiser sound,sennheiser sound,positive,Sennheiser CX 6.0BT,4
+13,1,bass,bass,positive,Sennheiser CX 6.0BT,4
+13,1,balanced,balanced,positive,Sennheiser CX 6.0BT,4
+14,0,earphones,earphones,positive,boAt Rockerz 255,5
+14,0,use,use,positive,boAt Rockerz 255,5
+15,0,sound quality,sound quality,positive,Skullcandy S2PGHW-174,4
+15,0,external noise reduction,external noise reduction,positive,Skullcandy S2PGHW-174,4
+18,1,storage pouch,storage pouch,negative,Sennheiser CX 6.0BT,5
+18,1,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+18,2,bass,bass,positive,Sennheiser CX 6.0BT,5
+18,2,treble,treble,positive,Sennheiser CX 6.0BT,5
+19,0,material quality,material quality,negative,Sennheiser CX 6.0BT,2
+20,1,charging time,charging time,positive,JBL T110BT,2
+20,1,working,working,positive,JBL T110BT,2
+21,0,build quality,build quality,positive,Sennheiser CX 6.0BT,5
+21,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+22,1,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+22,1,call clarity,call clarity,positive,Sennheiser CX 6.0BT,5
+22,1,material used,material used,positive,Sennheiser CX 6.0BT,5
+22,1,provided accessories,provided accessories,positive,Sennheiser CX 6.0BT,5
+22,2,bass effect,bass effect,negative,Sennheiser CX 6.0BT,5
+22,2,music experience,music experience,positive,Sennheiser CX 6.0BT,5
+23,0,build quality,build quality,positive,Sennheiser CX 6.0BT,4
+23,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+24,0,mic,mic,negative,boAt Rockerz 255,2
+26,0,sound quality,sound quality,positive,JBL T205BT,1
+26,0,ear-pods,ear-pods,negative,JBL T205BT,1
+29,0,sound,sound,positive,Sennheiser CX 6.0BT,4
+29,0,quality of sound,quality of sound,neutral,Sennheiser CX 6.0BT,4
+30,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+31,1,sound quality,sound quality,positive,JBL T205BT,4
+31,1,battery life,battery life,positive,JBL T205BT,4
+33,1,sound quality,sound quality,positive,PTron Intunes,5
+33,1,price,price,positive,PTron Intunes,5
+35,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+35,0,battery backup,battery backup,positive,boAt Rockerz 255,5
+38,0,battery life,battery life,negative,boAt Rockerz 255,3
+41,1,Sound Quality,sound quality,positive,Sennheiser CX 6.0BT,5
+41,1,Handle,handle,negative,Sennheiser CX 6.0BT,5
+43,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+43,0,usage,usage,neutral,Sennheiser CX 6.0BT,5
+44,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,1
+44,0,durable,durable,negative,Sennheiser CX 6.0BT,1
+46,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+46,0,Noise cancellation,noise cancellation,positive,boAt Rockerz 255,5
+49,0,sound,sound,negative,JBL T205BT,2
+49,0,headphones,headphones,negative,JBL T205BT,2
+50,0,sound quality,sound quality,negative,boAt Rockerz 255,1
+50,0,connections,connections,negative,boAt Rockerz 255,1
+52,0,sound,sound,positive,boAt Rockerz 255,4
+52,0,price,price,positive,boAt Rockerz 255,4
+53,0,noise cancellation,noise cancellation,positive,boAt Rockerz 255,5
+53,0,connectivity,connectivity,positive,boAt Rockerz 255,5
+53,0,value product,value product,positive,boAt Rockerz 255,5
+55,0,price,price,positive,Sennheiser CX 6.0BT,5
+55,0,headsets,headsets,negative,Sennheiser CX 6.0BT,5
+56,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+56,0,noise cancellation feature,noise cancellation feature,positive,Sennheiser CX 6.0BT,4
+59,0,speakers,speakers,positive,boAt Rockerz 255,5
+60,1,sound,sound,positive,Sennheiser CX 6.0BT,5
+60,1,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+62,0,ear phones,ear phones,positive,boAt Rockerz 255,3
+64,0,sound quality,sound quality,positive,JBL T205BT,5
+65,0,earphones,earphones,positive,Sennheiser CX 6.0BT,4
+65,1,Noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,4
+65,2,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+65,2,smooth,smooth,positive,Sennheiser CX 6.0BT,4
+66,0,design,design,positive,PTron Intunes,5
+66,0,headset,headset,positive,PTron Intunes,5
+67,0,Bass,bass,positive,boAt Rockerz 255,1
+68,0,earphone,earphone,positive,Sennheiser CX 6.0BT,4
+68,3,sound,sound,positive,Sennheiser CX 6.0BT,4
+69,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+69,0,build quality,build quality,positive,boAt Rockerz 255,5
+71,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+73,0,build quality,build quality,negative,boAt Rockerz 255,1
+73,0,working,working,neutral,boAt Rockerz 255,1
+74,0,sound quality,sound quality,negative,JBL T205BT,1
+74,0,fall,fall,negative,JBL T205BT,1
+80,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+80,0,bass,bass,positive,boAt Rockerz 255,5
+81,0,sound quality,sound quality,positive,JBL T205BT,3
+81,0,wireless headphone,wireless headphone,negative,JBL T205BT,3
+82,0,build quality,build quality,positive,boAt Rockerz 255,5
+82,0,packaging,packaging,positive,boAt Rockerz 255,5
+82,0,earbuds,earbuds,positive,boAt Rockerz 255,5
+82,0,battery,battery,neutral,boAt Rockerz 255,5
+82,0,sound quality,sound quality,negative,boAt Rockerz 255,5
+83,0,service,service,negative,Skullcandy S2PGHW-174,1
+83,0,support,support,negative,Skullcandy S2PGHW-174,1
+86,1,battery,battery,negative,JBL T205BT,5
+86,1,mic,mic,positive,JBL T205BT,5
+88,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+88,0,battery life,battery life,positive,boAt Rockerz 255,5
+89,0,built quality,built quality,negative,Sennheiser CX 6.0BT,4
+90,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+91,3,sound,sound,positive,Sennheiser CX 6.0BT,4
+91,3,bass,bass,negative,Sennheiser CX 6.0BT,4
+92,1,battery life,battery life,negative,boAt Rockerz 255,1
+92,1,product,product,negative,boAt Rockerz 255,1
+97,1,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+98,1,Sound,sound,positive,Sennheiser CX 6.0BT,5
+99,0,bass,bass,negative,boAt Rockerz 255,3
+99,0,noice cancellation,noice cancellation,negative,boAt Rockerz 255,3
+102,0,sound,sound,positive,JBL T110BT,4
+102,0,battery life,battery life,negative,JBL T110BT,4
+102,0,wire,wire,neutral,JBL T110BT,4
+103,0,quality,quality,negative,boAt Rockerz 255,4
+103,0,bass,bass,negative,boAt Rockerz 255,4
+104,0,battrey,battrey,neutral,boAt Rockerz 255,4
+104,0,sound quality,sound quality,negative,boAt Rockerz 255,4
+104,0,value for money,value for money,positive,boAt Rockerz 255,4
+104,0,bluetooth reception,bluetooth reception,negative,boAt Rockerz 255,4
+105,0,earphones,earphones,positive,boAt Rockerz 255,5
+105,1,sound quality,sound quality,positive,boAt Rockerz 255,5
+105,1,battery backup,battery backup,positive,boAt Rockerz 255,5
+107,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+107,0,bass,bass,positive,boAt Rockerz 255,5
+108,1,Sound quality,sound quality,positive,PTron Intunes,5
+108,1,battery backup,battery backup,positive,PTron Intunes,5
+108,3,Bluetooth earphone,bluetooth earphone,positive,PTron Intunes,5
+108,3,one year warranty,one year warranty,neutral,PTron Intunes,5
+109,3,sound quality,sound quality,positive,boAt Rockerz 255,5
+109,5,sound quality,sound quality,positive,boAt Rockerz 255,5
+111,0,sound,sound,positive,boAt Rockerz 255,5
+111,1,battery life,battery life,positive,boAt Rockerz 255,5
+111,1,base,base,positive,boAt Rockerz 255,5
+112,0,earpiece,earpiece,positive,Sennheiser CX 6.0BT,5
+112,0,bass,bass,positive,Sennheiser CX 6.0BT,5
+112,0,music quality,music quality,positive,Sennheiser CX 6.0BT,5
+113,0,headset,headset,positive,Sennheiser CX 6.0BT,5
+113,0,music lovers,music lovers,neutral,Sennheiser CX 6.0BT,5
+116,1,sound quality,sound quality,positive,JBL T110BT,5
+116,1,bass,bass,positive,JBL T110BT,5
+118,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+118,0,earphone,earphone,neutral,Sennheiser CX 6.0BT,5
+120,0,Bluetooth earphone,bluetooth earphone,positive,boAt Rockerz 255,4
+120,0,price,price,neutral,boAt Rockerz 255,4
+121,0,sound quality,sound quality,negative,boAt Rockerz 255,2
+121,1,bass,bass,negative,boAt Rockerz 255,2
+121,1,mids,mids,negative,boAt Rockerz 255,2
+121,2,sound quality,sound quality,negative,boAt Rockerz 255,2
+121,3,build quality,build quality,positive,boAt Rockerz 255,2
+121,3,packaging,packaging,positive,boAt Rockerz 255,2
+122,2,sound,sound,negative,Sennheiser CX 6.0BT,4
+122,2,crispness of sound,crispness of sound,positive,Sennheiser CX 6.0BT,4
+126,0,sound quality,sound quality,negative,JBL T110BT,3
+126,0,Bass,bass,negative,JBL T110BT,3
+127,0,sound quality,sound quality,positive,boAt Rockerz 255,4
+127,0,treble,treble,negative,boAt Rockerz 255,4
+127,0,bass,bass,negative,boAt Rockerz 255,4
+128,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+128,0,features,features,positive,Sennheiser CX 6.0BT,5
+131,0,support,support,positive,boAt Rockerz 255,4
+131,0,bass,bass,positive,boAt Rockerz 255,4
+131,0,mids,mids,positive,boAt Rockerz 255,4
+131,0,highs,highs,positive,boAt Rockerz 255,4
+134,0,sound,sound,negative,JBL T110BT,4
+134,0,bass,bass,positive,JBL T110BT,4
+135,2,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+136,0,Head phone,head phone,positive,Sennheiser CX 6.0BT,5
+136,0,Germany,germany,neutral,Sennheiser CX 6.0BT,5
+136,1,performance,performance,positive,Sennheiser CX 6.0BT,5
+136,1,bass,bass,positive,Sennheiser CX 6.0BT,5
+136,1,Sound,sound,positive,Sennheiser CX 6.0BT,5
+136,1,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+137,2,Sennheiser CX 275 S In -Ear Universal Mobile Headphone With Mic,sennheiser cx 275 s in -ear universal mobile headphone with mic,positive,Sennheiser CX 6.0BT,5
+137,2,Headphone,headphone,neutral,Sennheiser CX 6.0BT,5
+139,0,sound,sound,negative,boAt Rockerz 255,4
+139,0,noise,noise,negative,boAt Rockerz 255,4
+141,3,sound,sound,positive,boAt Rockerz 255,5
+141,3,connectivity,connectivity,positive,boAt Rockerz 255,5
+142,0,sound quality,sound quality,positive,JBL T205BT,4
+142,0,bass,bass,neutral,JBL T205BT,4
+146,0,voice quality,voice quality,positive,Sennheiser CX 6.0BT,5
+147,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+149,5,Build quality,build quality,positive,Sennheiser CX 6.0BT,5
+150,0,sound,sound,negative,boAt Rockerz 255,5
+150,0,quality,quality,positive,boAt Rockerz 255,5
+152,2,microphone jack,microphone jack,positive,Sennheiser CX 6.0BT,5
+152,2,call answer,call answer,neutral,Sennheiser CX 6.0BT,5
+152,2,pause,pause,neutral,Sennheiser CX 6.0BT,5
+152,2,play,play,neutral,Sennheiser CX 6.0BT,5
+155,1,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+155,1,price bracket,price bracket,positive,Sennheiser CX 6.0BT,5
+156,0,Bluetooth headphone,bluetooth headphone,positive,boAt Rockerz 255,5
+156,0,headphones,headphones,positive,boAt Rockerz 255,5
+157,0,sound quality,sound quality,positive,Samsung EO-BG950CBEIN,5
+157,0,sound,sound,positive,Samsung EO-BG950CBEIN,5
+157,1,build quality,build quality,positive,Samsung EO-BG950CBEIN,5
+157,1,battery life,battery life,positive,Samsung EO-BG950CBEIN,5
+159,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+159,0,battery life,battery life,negative,boAt Rockerz 255,5
+159,0,Durability,durability,neutral,boAt Rockerz 255,5
+159,0,Bluetooth Range,bluetooth range,neutral,boAt Rockerz 255,5
+159,0,Comfort,comfort,negative,boAt Rockerz 255,5
+159,0,Finishing,finishing,neutral,boAt Rockerz 255,5
+162,0,voice quality,voice quality,positive,boAt Rockerz 255,4
+162,0,service,service,negative,boAt Rockerz 255,4
+163,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+165,0,headset mic,headset mic,negative,Sennheiser CX 6.0BT,2
+166,0,Mic,mic,negative,boAt Rockerz 255,4
+166,0,voice,voice,neutral,boAt Rockerz 255,4
+168,0,outside noise cancellation,outside noise cancellation,negative,boAt Rockerz 255,5
+168,0,perfect,perfect,positive,boAt Rockerz 255,5
+170,0,sound,sound,negative,JBL T110BT,3
+171,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+172,0,Sound,sound,positive,Sennheiser CX 6.0BT,2
+173,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+173,0,everything,everything,positive,Sennheiser CX 6.0BT,5
+175,0,earpiece,earpiece,negative,JBL T110BT,1
+175,0,bass,bass,negative,JBL T110BT,1
+175,2,Product quality,product quality,negative,JBL T110BT,1
+175,2,reliability,reliability,negative,JBL T110BT,1
+176,0,sound quality,sound quality,positive,JBL T110BT,5
+176,0,battery backup,battery backup,positive,JBL T110BT,5
+176,0,prise,prise,neutral,JBL T110BT,5
+178,0,wireless headphone,wireless headphone,positive,JBL T110BT,4
+178,0,price range,price range,positive,JBL T110BT,4
+178,1,sound quality,sound quality,positive,JBL T110BT,4
+178,1,battery life,battery life,negative,JBL T110BT,4
+179,0,sound effect,sound effect,negative,boAt Rockerz 255,1
+179,0,sound effects,sound effects,negative,boAt Rockerz 255,1
+180,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,3
+180,0,wire quality,wire quality,negative,Sennheiser CX 6.0BT,3
+181,1,earphones,earphones,positive,boAt Rockerz 255,5
+181,1,working,working,neutral,boAt Rockerz 255,5
+183,0,build quality,build quality,positive,boAt Rockerz 255,5
+183,0,quality,quality,positive,boAt Rockerz 255,5
+184,0,headphones,headphones,positive,Sennheiser CX 6.0BT,5
+184,0,Price,price,neutral,Sennheiser CX 6.0BT,5
+185,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+185,0,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+188,0,sound quality,sound quality,positive,boAt Rockerz 255,4
+188,0,price,price,positive,boAt Rockerz 255,4
+190,0,earphones,earphones,positive,boAt Rockerz 255,5
+191,0,earphone,earphone,negative,JBL T110BT,1
+192,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,3
+192,3,earphone,earphone,positive,Sennheiser CX 6.0BT,3
+193,0,warranty,warranty,neutral,boAt Rockerz 255,3
+193,0,speaker,speaker,negative,boAt Rockerz 255,3
+196,0,quality,quality,positive,Sennheiser CX 6.0BT,4
+196,0,sound volume,sound volume,positive,Sennheiser CX 6.0BT,4
+196,0,bass,bass,positive,Sennheiser CX 6.0BT,4
+197,1,music quality,music quality,positive,Sennheiser CX 6.0BT,5
+197,1,bass,bass,positive,Sennheiser CX 6.0BT,5
+198,1,sound,sound,positive,JBL T205BT,4
+198,1,Battery,battery,neutral,JBL T205BT,4
+199,1,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+199,1,mic,mic,positive,Sennheiser CX 6.0BT,4
+200,0,earphones,earphones,positive,boAt Rockerz 255,5
+200,0,budget,budget,neutral,boAt Rockerz 255,5
+201,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+201,0,price,price,positive,boAt Rockerz 255,5
+202,0,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+202,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+203,0,mic,mic,negative,boAt Rockerz 255,4
+203,2,Bass,bass,positive,boAt Rockerz 255,4
+204,0,sound quality,sound quality,positive,boAt Rockerz 255,4
+204,0,durable,durable,positive,boAt Rockerz 255,4
+206,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+207,0,sound,sound,positive,Sennheiser CX 6.0BT,3
+207,0,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,3
+207,0,mic,mic,positive,Sennheiser CX 6.0BT,3
+207,0,cord quality,cord quality,positive,Sennheiser CX 6.0BT,3
+211,0,sound quality,sound quality,positive,PTron Intunes,5
+213,0,durability,durability,positive,boAt Rockerz 255,4
+213,0,eargrip,eargrip,negative,boAt Rockerz 255,4
+213,1,battery,battery,positive,boAt Rockerz 255,4
+213,1,price,price,positive,boAt Rockerz 255,4
+216,0,wire,wire,negative,Sennheiser CX 6.0BT,4
+217,0,sound clarity,sound clarity,positive,Sennheiser CX 6.0BT,5
+217,4,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+217,4,value for money,value for money,positive,Sennheiser CX 6.0BT,5
+219,0,bass,bass,positive,boAt Rockerz 255,5
+219,0,sound,sound,negative,boAt Rockerz 255,5
+220,2,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+220,2,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+223,0,headphone,headphone,positive,Sennheiser CX 6.0BT,4
+223,0,guarantee,guarantee,positive,Sennheiser CX 6.0BT,4
+224,0,quality,quality,negative,boAt Rockerz 255,5
+224,0,sound,sound,negative,boAt Rockerz 255,5
+228,1,music quality,music quality,negative,Sennheiser CX 6.0BT,1
+230,0,Sound,sound,negative,JBL T110BT,3
+230,0,Battery life,battery life,negative,JBL T110BT,3
+231,0,range of connectivity,range of connectivity,negative,JBL T205BT,3
+231,0,sound,sound,positive,JBL T205BT,3
+233,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+233,0,compact,compact,positive,Sennheiser CX 6.0BT,4
+235,2,Wire quality,wire quality,negative,Sennheiser CX 6.0BT,1
+235,2,worthless,worthless,negative,Sennheiser CX 6.0BT,1
+236,0,sound quality,sound quality,positive,JBL T110BT,5
+236,0,money,money,positive,JBL T110BT,5
+237,0,battery,battery,negative,boAt Rockerz 255,4
+237,0,product,product,positive,boAt Rockerz 255,4
+239,0,Battery Backup,battery backup,positive,Samsung EO-BG950CBEIN,5
+239,0,Sound quality,sound quality,positive,Samsung EO-BG950CBEIN,5
+241,0,quality of wires,quality of wires,positive,Sennheiser CX 6.0BT,5
+241,0,JBL,jbl,negative,Sennheiser CX 6.0BT,5
+242,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+242,0,mids,mids,neutral,Sennheiser CX 6.0BT,5
+242,0,highs,highs,neutral,Sennheiser CX 6.0BT,5
+242,0,bass,bass,negative,Sennheiser CX 6.0BT,5
+242,4,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+242,4,microphone button,microphone button,neutral,Sennheiser CX 6.0BT,5
+242,6,music player,music player,negative,Sennheiser CX 6.0BT,5
+242,6,inbuilt equaliser,inbuilt equaliser,neutral,Sennheiser CX 6.0BT,5
+242,7,sound reproduction,sound reproduction,positive,Sennheiser CX 6.0BT,5
+242,7,Sennheiser headsets,sennheiser headsets,neutral,Sennheiser CX 6.0BT,5
+243,1,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+247,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+248,0,sound,sound,negative,boAt Rockerz 255,5
+248,0,network,network,neutral,boAt Rockerz 255,5
+249,0,battery,battery,positive,boAt Rockerz 255,4
+249,0,voice quality,voice quality,positive,boAt Rockerz 255,4
+250,0,Build quality,build quality,positive,boAt Rockerz 255,5
+250,0,Audio quality,audio quality,neutral,boAt Rockerz 255,5
+251,0,Headset,headset,positive,Sennheiser CX 6.0BT,5
+251,1,sound,sound,positive,Sennheiser CX 6.0BT,5
+252,1,sound quality,sound quality,positive,boAt Rockerz 255,5
+253,0,Bluetooth,bluetooth,negative,boAt Rockerz 255,1
+253,0,product,product,negative,boAt Rockerz 255,1
+254,1,sound clarity,sound clarity,positive,JBL T205BT,5
+254,4,sound clarity,sound clarity,positive,JBL T205BT,5
+256,1,speaker,speaker,negative,boAt Rockerz 255,1
+256,1,work,work,negative,boAt Rockerz 255,1
+257,0,Battery back up,battery back up,positive,boAt Rockerz 255,4
+257,0,Bass,bass,positive,boAt Rockerz 255,4
+258,0,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+259,0,headset,headset,positive,Sennheiser CX 6.0BT,5
+259,0,sounds,sounds,positive,Sennheiser CX 6.0BT,5
+260,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+263,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+263,0,mic quality,mic quality,positive,Sennheiser CX 6.0BT,5
+264,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,3
+264,0,durability,durability,negative,Sennheiser CX 6.0BT,3
+265,1,bluetooth earphone,bluetooth earphone,positive,boAt Rockerz 255,5
+265,1,noise cancellation,noise cancellation,positive,boAt Rockerz 255,5
+265,1,sound quality,sound quality,positive,boAt Rockerz 255,5
+265,1,bass,bass,positive,boAt Rockerz 255,5
+265,1,connectivity,connectivity,positive,boAt Rockerz 255,5
+265,1,battery life,battery life,positive,boAt Rockerz 255,5
+266,0,earpiece,earpiece,negative,Sennheiser CX 6.0BT,1
+266,0,working,working,negative,Sennheiser CX 6.0BT,1
+269,0,sound output,sound output,positive,Sennheiser CX 6.0BT,5
+269,0,bass,bass,positive,Sennheiser CX 6.0BT,5
+269,4,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+271,1,mic,mic,negative,Sennheiser CX 6.0BT,3
+273,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+273,0,noise isolation,noise isolation,positive,Sennheiser CX 6.0BT,5
+274,0,sound quality,sound quality,negative,boAt Rockerz 255,3
+274,0,bass,bass,neutral,boAt Rockerz 255,3
+274,0,power,power,positive,boAt Rockerz 255,3
+274,0,backup,backup,positive,boAt Rockerz 255,3
+275,0,volume level,volume level,negative,boAt Rockerz 255,4
+275,0,full volume,full volume,neutral,boAt Rockerz 255,4
+276,0,earphone,earphone,positive,Sennheiser CX 6.0BT,4
+276,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+277,0,sound,sound,positive,Sennheiser CX 6.0BT,4
+277,0,size,size,neutral,Sennheiser CX 6.0BT,4
+277,0,Cable,cable,negative,Sennheiser CX 6.0BT,4
+277,0,performance,performance,positive,Sennheiser CX 6.0BT,4
+280,0,sound,sound,negative,Sennheiser CX 6.0BT,2
+282,0,headphones,headphones,positive,Sennheiser CX 6.0BT,5
+285,0,looks,looks,positive,boAt Rockerz 255,5
+285,0,sound,sound,positive,boAt Rockerz 255,5
+288,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+289,0,sound,sound,negative,Sennheiser CX 6.0BT,2
+290,0,voice,voice,positive,Sennheiser CX 6.0BT,5
+290,0,quality,quality,positive,Sennheiser CX 6.0BT,5
+291,0,sound,sound,positive,JBL T205BT,5
+291,0,bass,bass,positive,JBL T205BT,5
+293,0,sound,sound,positive,Sennheiser CX 6.0BT,4
+293,0,design,design,positive,Sennheiser CX 6.0BT,4
+294,0,Packaging,packaging,negative,boAt Rockerz 255,4
+294,0,seal,seal,negative,boAt Rockerz 255,4
+295,0,Battery life,battery life,positive,boAt Rockerz 255,5
+295,0,Sound quality,sound quality,positive,boAt Rockerz 255,5
+296,0,quality,quality,positive,PTron Intunes,5
+296,0,sound,sound,positive,PTron Intunes,5
+297,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+298,0,sound,sound,neutral,boAt Rockerz 255,4
+298,0,Customer care services,customer care services,negative,boAt Rockerz 255,4
+299,0,Earphones,earphones,positive,Sennheiser CX 6.0BT,5
+299,1,Bass,bass,positive,Sennheiser CX 6.0BT,5
+299,1,Treble,treble,positive,Sennheiser CX 6.0BT,5
+301,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+301,0,bass,bass,positive,Sennheiser CX 6.0BT,5
+303,0,sound,sound,negative,boAt Rockerz 255,2
+303,0,connectivity,connectivity,negative,boAt Rockerz 255,2
+308,1,sound management,sound management,negative,JBL T110BT,3
+308,2,headphones,headphones,negative,JBL T110BT,3
+308,2,haptic buttons,haptic buttons,neutral,JBL T110BT,3
+308,3,headphones,headphones,negative,JBL T110BT,3
+308,4,sound quality,sound quality,positive,JBL T110BT,3
+308,4,battery management,battery management,positive,JBL T110BT,3
+309,0,audio technica,audio technica,neutral,Sennheiser CX 6.0BT,5
+309,0,jbl,jbl,neutral,Sennheiser CX 6.0BT,5
+309,0,moto n samsung earphones,moto n samsung earphones,neutral,Sennheiser CX 6.0BT,5
+311,0,sound,sound,positive,boAt Rockerz 255,5
+311,0,noise cancelling feature,noise cancelling feature,positive,boAt Rockerz 255,5
+312,0,sound quality,sound quality,positive,JBL T205BT,5
+312,0,ear buds,ear buds,negative,JBL T205BT,5
+313,1,mic,mic,positive,Sennheiser CX 6.0BT,5
+313,1,voice clarity,voice clarity,positive,Sennheiser CX 6.0BT,5
+313,1,music clarity,music clarity,positive,Sennheiser CX 6.0BT,5
+313,2,warranty,warranty,positive,Sennheiser CX 6.0BT,5
+314,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+314,0,bass,bass,positive,boAt Rockerz 255,5
+317,0,material,material,negative,Sennheiser CX 6.0BT,3
+317,0,cellphone,cellphone,neutral,Sennheiser CX 6.0BT,3
+319,0,sound quality,sound quality,negative,boAt Rockerz 255,2
+319,0,volume,volume,positive,boAt Rockerz 255,2
+319,0,clarity,clarity,negative,boAt Rockerz 255,2
+324,1,quality,quality,positive,Sennheiser CX 6.0BT,4
+325,0,earphone,earphone,positive,Sennheiser CX 6.0BT,5
+326,0,battery life,battery life,positive,boAt Rockerz 255,5
+326,0,quality sound experience,quality sound experience,positive,boAt Rockerz 255,5
+326,0,noise cancellation,noise cancellation,positive,boAt Rockerz 255,5
+326,0,lightweight,lightweight,positive,boAt Rockerz 255,5
+327,0,Bass,bass,negative,JBL T110BT,3
+328,0,sound quality,sound quality,positive,boAt Rockerz 255,3
+328,0,battery available notification,battery available notification,negative,boAt Rockerz 255,3
+328,0,Bluetooth connectivity,bluetooth connectivity,neutral,boAt Rockerz 255,3
+329,0,earphones,earphones,positive,Sennheiser CX 6.0BT,4
+329,0,price,price,positive,Sennheiser CX 6.0BT,4
+330,0,looks,looks,positive,JBL T205BT,5
+330,0,use,use,positive,JBL T205BT,5
+330,0,phones,phones,neutral,JBL T205BT,5
+330,0,laptops,laptops,neutral,JBL T205BT,5
+330,0,battery backup,battery backup,positive,JBL T205BT,5
+330,0,Sound,sound,positive,JBL T205BT,5
+330,0,mic quality,mic quality,positive,JBL T205BT,5
+332,1,audio quality,audio quality,positive,boAt Rockerz 255,1
+332,1,WIRELESS BLUETOOTH Earphone,wireless bluetooth earphone,neutral,boAt Rockerz 255,1
+332,2,build,build,positive,boAt Rockerz 255,1
+332,2,lasting,lasting,neutral,boAt Rockerz 255,1
+332,3,earbud,earbud,negative,boAt Rockerz 255,1
+332,3,usage,usage,neutral,boAt Rockerz 255,1
+333,3,audio clarity,audio clarity,positive,Sennheiser CX 6.0BT,5
+333,7,audio clarity,audio clarity,positive,Sennheiser CX 6.0BT,5
+336,0,headphone,headphone,positive,Sennheiser CX 6.0BT,4
+336,3,mic,mic,positive,Sennheiser CX 6.0BT,4
+336,3,clearer,clearer,negative,Sennheiser CX 6.0BT,4
+338,0,sound,sound,negative,boAt Rockerz 255,1
+340,2,audio quality,audio quality,positive,boAt Rockerz 255,5
+340,4,audio,audio,negative,boAt Rockerz 255,5
+340,4,latency,latency,positive,boAt Rockerz 255,5
+340,5,audio,audio,negative,boAt Rockerz 255,5
+340,5,action,action,positive,boAt Rockerz 255,5
+343,0,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+343,0,Bass,bass,positive,Sennheiser CX 6.0BT,5
+344,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+345,0,sound quality,sound quality,positive,Skullcandy S2PGHW-174,1
+345,0,customer support,customer support,negative,Skullcandy S2PGHW-174,1
+347,0,sound quality,sound quality,positive,JBL T110BT,4
+347,0,works,works,positive,JBL T110BT,4
+348,1,sound clarity,sound clarity,positive,Sennheiser CX 6.0BT,4
+348,2,built quality,built quality,negative,Sennheiser CX 6.0BT,4
+348,2,price,price,positive,Sennheiser CX 6.0BT,4
+349,0,light weight,light weight,positive,boAt Rockerz 255,4
+349,0,fast pairing for BT,fast pairing for bt,positive,boAt Rockerz 255,4
+349,0,Comfortable fit,comfortable fit,positive,boAt Rockerz 255,4
+349,0,Thundering bass!!,thundering bass!!,positive,boAt Rockerz 255,4
+349,1,Google assistant,google assistant,positive,boAt Rockerz 255,4
+349,1,call alert,call alert,negative,boAt Rockerz 255,4
+349,3,bass,bass,negative,boAt Rockerz 255,4
+349,3,tones of equaliser settings,tones of equaliser settings,positive,boAt Rockerz 255,4
+350,0,earphones,earphones,positive,JBL T110BT,5
+350,0,handy,handy,positive,JBL T110BT,5
+352,0,built quality,built quality,positive,boAt Rockerz 255,4
+352,0,range,range,negative,boAt Rockerz 255,4
+352,1,sound quality,sound quality,positive,boAt Rockerz 255,4
+352,1,earphone,earphone,neutral,boAt Rockerz 255,4
+352,2,Battery,battery,positive,boAt Rockerz 255,4
+352,2,timer,timer,neutral,boAt Rockerz 255,4
+352,4,range,range,neutral,boAt Rockerz 255,4
+352,4,mic,mic,negative,boAt Rockerz 255,4
+353,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+353,2,pouch,pouch,positive,Sennheiser CX 6.0BT,5
+354,0,sound quality,sound quality,negative,boAt Rockerz 255,2
+354,2,sound clarity,sound clarity,negative,boAt Rockerz 255,2
+354,9,connection,connection,negative,boAt Rockerz 255,2
+354,9,replaced,replaced,neutral,boAt Rockerz 255,2
+355,0,sound quality,sound quality,positive,boAt Rockerz 255,4
+355,0,use,use,positive,boAt Rockerz 255,4
+356,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+356,0,material,material,positive,Sennheiser CX 6.0BT,5
+357,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+357,0,listening to music,listening to music,positive,boAt Rockerz 255,5
+357,0,call,call,positive,boAt Rockerz 255,5
+359,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+359,0,bass,bass,positive,boAt Rockerz 255,5
+361,2,earphone,earphone,negative,boAt Rockerz 255,1
+361,2,working,working,negative,boAt Rockerz 255,1
+363,1,sound quality,sound quality,positive,boAt Rockerz 255,1
+363,1,connectivity,connectivity,positive,boAt Rockerz 255,1
+365,2,sound quality,sound quality,positive,boAt Rockerz 255,4
+367,0,bass,bass,positive,Sennheiser CX 6.0BT,5
+367,0,treble,treble,positive,Sennheiser CX 6.0BT,5
+367,2,wire quality,wire quality,positive,Sennheiser CX 6.0BT,5
+367,2,Call quality,call quality,positive,Sennheiser CX 6.0BT,5
+369,2,noise cancellation,noise cancellation,negative,JBL T205BT,2
+369,2,volume,volume,neutral,JBL T205BT,2
+369,3,bass,bass,negative,JBL T205BT,2
+369,3,market,market,neutral,JBL T205BT,2
+370,1,colour,colour,positive,boAt Rockerz 255,5
+370,1,durability,durability,positive,boAt Rockerz 255,5
+371,1,Sound Quality,sound quality,positive,boAt Rockerz 255,5
+371,1,Light weight,light weight,positive,boAt Rockerz 255,5
+372,0,earphone,earphone,positive,boAt Rockerz 255,4
+372,0,battery backup,battery backup,negative,boAt Rockerz 255,4
+373,0,phone calls,phone calls,negative,Sennheiser CX 6.0BT,3
+375,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+376,0,headsets,headsets,positive,boAt Rockerz 255,3
+376,0,design,design,neutral,boAt Rockerz 255,3
+376,0,sound,sound,positive,boAt Rockerz 255,3
+376,0,base,base,negative,boAt Rockerz 255,3
+377,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+377,1,packageing,packageing,positive,Sennheiser CX 6.0BT,5
+377,1,head phone,head phone,positive,Sennheiser CX 6.0BT,5
+378,0,Bass,bass,negative,JBL T205BT,2
+378,0,earphone,earphone,neutral,JBL T205BT,2
+378,0,earbuds design,earbuds design,positive,JBL T205BT,2
+379,0,Noise cancellation,noise cancellation,negative,Sennheiser CX 6.0BT,3
+380,0,Stylish look,stylish look,positive,Samsung EO-BG950CBEIN,1
+380,0,voice command,voice command,neutral,Samsung EO-BG950CBEIN,1
+380,0,basic function like music track change,basic function like music track change,negative,Samsung EO-BG950CBEIN,1
+380,0,Sound quality not very good as expected from a dual speaker system,sound quality not very good as expected from a dual speaker system,negative,Samsung EO-BG950CBEIN,1
+380,0,Hand free calling some time not functions,hand free calling some time not functions,negative,Samsung EO-BG950CBEIN,1
+380,0,Noise cancellation,noise cancellation,negative,Samsung EO-BG950CBEIN,1
+380,0,cable management,cable management,neutral,Samsung EO-BG950CBEIN,1
+381,0,sound,sound,positive,JBL T110BT,4
+381,0,length,length,neutral,JBL T110BT,4
+383,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+383,0,battery life,battery life,positive,boAt Rockerz 255,5
+384,1,turn off,turn off,positive,boAt Rockerz 255,5
+384,1,battery backup,battery backup,positive,boAt Rockerz 255,5
+384,1,carry,carry,positive,boAt Rockerz 255,5
+386,0,charging,charging,negative,boAt Rockerz 255,1
+387,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+387,0,comfortable,comfortable,positive,Sennheiser CX 6.0BT,5
+388,1,noise cancelation,noise cancelation,negative,boAt Rockerz 255,1
+388,1,stop working,stop working,negative,boAt Rockerz 255,1
+389,0,taps,taps,neutral,Sennheiser CX 6.0BT,4
+389,0,bass,bass,negative,Sennheiser CX 6.0BT,4
+389,0,are not,are not,negative,Sennheiser CX 6.0BT,4
+392,1,bass effect,bass effect,positive,boAt Rockerz 255,5
+393,0,earphone,earphone,negative,JBL T205BT,2
+394,0,ear phone,ear phone,negative,boAt Rockerz 255,1
+394,0,working,working,negative,boAt Rockerz 255,1
+395,1,sound quality,sound quality,positive,JBL T110BT,5
+395,1,fitment,fitment,positive,JBL T110BT,5
+396,1,Noise sound isolation,noise sound isolation,negative,Sennheiser CX 6.0BT,5
+396,1,Mic,mic,positive,Sennheiser CX 6.0BT,5
+396,1,button on mic,button on mic,neutral,Sennheiser CX 6.0BT,5
+397,1,sound clarity,sound clarity,positive,Sennheiser CX 6.0BT,5
+397,1,after sales services,after sales services,positive,Sennheiser CX 6.0BT,5
+398,1,sound quality,sound quality,positive,boAt Rockerz 255,3
+398,4,voice,voice,negative,boAt Rockerz 255,3
+398,4,mic,mic,negative,boAt Rockerz 255,3
+400,1,sound quality,sound quality,positive,boAt Rockerz 255,5
+400,4,sound,sound,positive,boAt Rockerz 255,5
+401,0,sound quality,sound quality,negative,JBL T110BT,1
+402,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+402,0,price range,price range,positive,Sennheiser CX 6.0BT,5
+403,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,5
+403,0,ears,ears,neutral,Sennheiser CX 6.0BT,5
+405,0,Sound,sound,positive,boAt Rockerz 255,3
+405,0,bass,bass,positive,boAt Rockerz 255,3
+407,0,sound quality,sound quality,negative,Sennheiser CX 6.0BT,1
+407,0,battery life,battery life,negative,Sennheiser CX 6.0BT,1
+414,0,voice cancellation,voice cancellation,positive,boAt Rockerz 255,5
+414,0,multifunctional key,multifunctional key,positive,boAt Rockerz 255,5
+414,0,power backup,power backup,positive,boAt Rockerz 255,5
+415,0,build,build,positive,boAt Rockerz 255,5
+415,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+415,0,mic,mic,positive,boAt Rockerz 255,5
+416,0,Mic,mic,negative,Sennheiser CX 6.0BT,2
+416,0,compatibility,compatibility,negative,Sennheiser CX 6.0BT,2
+417,0,sound,sound,positive,boAt Rockerz 255,5
+417,0,battery life,battery life,positive,boAt Rockerz 255,5
+419,3,treble,treble,positive,Sennheiser CX 6.0BT,5
+419,3,bass,bass,positive,Sennheiser CX 6.0BT,5
+420,0,mic,mic,negative,JBL T205BT,2
+421,0,audio,audio,negative,boAt Rockerz 255,4
+421,0,bass,bass,negative,boAt Rockerz 255,4
+421,1,mic,mic,negative,boAt Rockerz 255,4
+421,1,voice,voice,negative,boAt Rockerz 255,4
+422,0,sound quality,sound quality,positive,boAt Rockerz 255,2
+422,0,quality of voice while on call,quality of voice while on call,negative,boAt Rockerz 255,2
+424,0,setup,setup,positive,JBL T110BT,5
+424,0,battery life,battery life,positive,JBL T110BT,5
+424,0,value for money,value for money,positive,JBL T110BT,5
+425,0,headphone,headphone,positive,Sennheiser CX 6.0BT,4
+425,0,bass,bass,positive,Sennheiser CX 6.0BT,4
+425,0,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,4
+427,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+430,0,earphone,earphone,negative,JBL T110BT,1
+431,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+431,0,cable,cable,negative,Sennheiser CX 6.0BT,5
+432,5,sound effect,sound effect,positive,JBL T110BT,5
+432,9,volume,volume,neutral,JBL T110BT,5
+432,9,play,play,positive,JBL T110BT,5
+433,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+433,1,battery life,battery life,positive,boAt Rockerz 255,5
+433,1,performance,performance,negative,boAt Rockerz 255,5
+435,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+436,3,sound,sound,negative,Sennheiser CX 6.0BT,3
+436,3,price segment,price segment,neutral,Sennheiser CX 6.0BT,3
+436,4,bass,bass,negative,Sennheiser CX 6.0BT,3
+436,4,music,music,negative,Sennheiser CX 6.0BT,3
+436,4,vocals,vocals,positive,Sennheiser CX 6.0BT,3
+438,1,Sound quality,sound quality,positive,boAt Rockerz 255,5
+438,1,Bass,bass,positive,boAt Rockerz 255,5
+438,2,Noise cancellation,noise cancellation,positive,boAt Rockerz 255,5
+438,2,Light weight,light weight,positive,boAt Rockerz 255,5
+438,4,working,working,positive,boAt Rockerz 255,5
+438,4,ear bud magnet,ear bud magnet,positive,boAt Rockerz 255,5
+439,0,bass,bass,positive,JBL T110BT,4
+439,0,product,product,positive,JBL T110BT,4
+441,0,Sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+441,0,Bass,bass,negative,Sennheiser CX 6.0BT,4
+442,0,volume,volume,negative,Sennheiser CX 6.0BT,3
+442,0,mic button,mic button,neutral,Sennheiser CX 6.0BT,3
+443,1,sound,sound,positive,boAt Rockerz 255,4
+443,3,bass,bass,positive,boAt Rockerz 255,4
+443,3,price,price,neutral,boAt Rockerz 255,4
+443,7,Bluetooth,bluetooth,positive,boAt Rockerz 255,4
+443,7,range,range,neutral,boAt Rockerz 255,4
+443,11,earpads,earpads,negative,boAt Rockerz 255,4
+446,1,earphones,earphones,neutral,boAt Rockerz 255,2
+446,1,disconnected,disconnected,negative,boAt Rockerz 255,2
+446,4,earphones,earphones,positive,boAt Rockerz 255,2
+446,4,signals,signals,neutral,boAt Rockerz 255,2
+446,5,battery,battery,negative,boAt Rockerz 255,2
+446,9,sound quality,sound quality,negative,boAt Rockerz 255,2
+446,9,first song,first song,neutral,boAt Rockerz 255,2
+446,10,Build Quality,build quality,positive,boAt Rockerz 255,2
+446,11,battery life,battery life,positive,boAt Rockerz 255,2
+446,11,Battery life,battery life,positive,boAt Rockerz 255,2
+448,0,head phones,head phones,positive,Sennheiser CX 6.0BT,5
+448,0,quality,quality,positive,Sennheiser CX 6.0BT,5
+449,0,quality of bass,quality of bass,positive,Sennheiser CX 6.0BT,4
+449,0,quality of treble,quality of treble,positive,Sennheiser CX 6.0BT,4
+449,1,Bass,bass,positive,Sennheiser CX 6.0BT,4
+449,1,sound,sound,positive,Sennheiser CX 6.0BT,4
+449,1,Noise Cancelletion,noise cancelletion,positive,Sennheiser CX 6.0BT,4
+449,1,mic quality,mic quality,positive,Sennheiser CX 6.0BT,4
+449,1,2 years warranty,2 years warranty,positive,Sennheiser CX 6.0BT,4
+449,3,cable quality,cable quality,positive,Sennheiser CX 6.0BT,4
+450,1,sound quality,sound quality,positive,JBL T205BT,5
+450,1,Bass,bass,positive,JBL T205BT,5
+451,2,sound,sound,positive,boAt Rockerz 255,4
+451,2,bass,bass,positive,boAt Rockerz 255,4
+451,3,earphone,earphone,negative,boAt Rockerz 255,4
+451,3,hear,hear,neutral,boAt Rockerz 255,4
+451,4,charging,charging,neutral,boAt Rockerz 255,4
+451,4,standby,standby,positive,boAt Rockerz 255,4
+452,0,sound quality,sound quality,positive,Flybot Wave,5
+452,0,Bluetooth seamless connectivity,bluetooth seamless connectivity,positive,Flybot Wave,5
+454,0,sound,sound,positive,boAt Rockerz 255,2
+454,0,wire,wire,negative,boAt Rockerz 255,2
+458,0,battery life,battery life,positive,JBL T205BT,5
+458,0,quality,quality,positive,JBL T205BT,5
+461,9,earphones,earphones,negative,JBL T110BT,1
+461,10,earpiece,earpiece,negative,JBL T110BT,1
+461,10,keep them in my ear,keep them in my ear,negative,JBL T110BT,1
+462,0,earphone,earphone,positive,boAt Rockerz 255,5
+462,1,bass,bass,positive,boAt Rockerz 255,5
+462,1,music lover,music lover,positive,boAt Rockerz 255,5
+462,2,battery life,battery life,positive,boAt Rockerz 255,5
+463,2,noise cancellation,noise cancellation,positive,boAt Rockerz 255,4
+463,2,in ear headphone,in ear headphone,neutral,boAt Rockerz 255,4
+465,0,sound quality,sound quality,positive,boAt Rockerz 255,5
+466,0,quality,quality,positive,Sennheiser CX 6.0BT,5
+466,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+467,0,deal,deal,positive,Sennheiser CX 6.0BT,5
+467,0,earphones,earphones,positive,Sennheiser CX 6.0BT,5
+469,1,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+469,1,Chords,chords,neutral,Sennheiser CX 6.0BT,5
+469,1,Bass lovers,bass lovers,negative,Sennheiser CX 6.0BT,5
+470,0,warranty,warranty,positive,Sennheiser CX 6.0BT,5
+471,3,sound quality,sound quality,positive,boAt Rockerz 255,3
+471,3,price,price,positive,boAt Rockerz 255,3
+473,0,sound quality,sound quality,negative,PTron Intunes,2
+474,2,Bass,bass,positive,JBL T205BT,4
+474,3,sound quality,sound quality,positive,JBL T205BT,4
+475,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+475,1,noise cancellation,noise cancellation,positive,Sennheiser CX 6.0BT,5
+476,0,volume,volume,negative,Sennheiser CX 6.0BT,2
+476,0,sound,sound,negative,Sennheiser CX 6.0BT,2
+476,2,clarity,clarity,positive,Sennheiser CX 6.0BT,2
+476,2,sound,sound,positive,Sennheiser CX 6.0BT,2
+476,3,mic,mic,negative,Sennheiser CX 6.0BT,2
+476,3,mouth,mouth,neutral,Sennheiser CX 6.0BT,2
+478,0,Earphones,earphones,positive,PTron Intunes,4
+478,0,price,price,positive,PTron Intunes,4
+481,0,battery,battery,negative,JBL T110BT,1
+481,0,problems,problems,negative,JBL T110BT,1
+482,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+482,1,wires,wires,negative,Sennheiser CX 6.0BT,4
+482,1,jacketed wires,jacketed wires,positive,Sennheiser CX 6.0BT,4
+483,0,sound,sound,positive,Sennheiser CX 6.0BT,5
+483,0,earphone,earphone,neutral,Sennheiser CX 6.0BT,5
+484,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,1
+484,0,material durability,material durability,negative,Sennheiser CX 6.0BT,1
+485,0,sound quality,sound quality,positive,boAt Rockerz 255,4
+485,0,loudness,loudness,negative,boAt Rockerz 255,4
+488,2,sound quality,sound quality,positive,boAt Rockerz 255,5
+489,0,sound quality,sound quality,positive,Sennheiser CX 6.0BT,4
+489,0,bass,bass,positive,Sennheiser CX 6.0BT,4
+490,0,cord,cord,negative,Sennheiser CX 6.0BT,2
+490,0,turns,turns,neutral,Sennheiser CX 6.0BT,2
+496,0,sound quality,sound quality,positive,Flybot Wave,4
+496,0,Battery life,battery life,positive,Flybot Wave,4
+497,2,noise cancellation earphones/headphones,noise cancellation earphones/headphones,negative,JBL T205BT,1
+497,2,Noise Cancellation headphones,noise cancellation headphones,neutral,JBL T205BT,1
+498,0,material,material,positive,Sennheiser CX 6.0BT,4
+498,0,sound,sound,positive,Sennheiser CX 6.0BT,4
+499,1,sound quality,sound quality,positive,boAt Rockerz 255,5
+499,1,battery backup,battery backup,positive,boAt Rockerz 255,5

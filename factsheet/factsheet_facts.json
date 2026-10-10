@@ -1,0 +1,100 @@
+{
+  "project_title": "Aspect-Level Customer Review Intelligence via Fine-Tuned Small Language Models",
+  "dataset": {
+    "dataset_name": "Laptop_Train_v2",
+    "train": 2402,
+    "val": 300,
+    "test": 300,
+    "total": 3002,
+    "total_k": 3.002
+  },
+  "lora_quant": {
+    "base_model": "unsloth/Qwen2.5-1.5B-Instruct-bnb-4bit",
+    "quant_bits": 4,
+    "lora_rank": 16,
+    "lora_alpha": 16,
+    "lora_dropout": 0,
+    "target_modules": [
+      "o_proj",
+      "up_proj",
+      "q_proj",
+      "v_proj",
+      "k_proj",
+      "gate_proj",
+      "down_proj"
+    ]
+  },
+  "params": {
+    "trainable": 18464768,
+    "trainable_m": 18.464768,
+    "total": 1543714304,
+    "total_b": 1.543714304,
+    "trainable_pct": 1.1961259899033754,
+    "gguf_file": "Qwen2.5-1.5B-Instruct.Q4_K_M.gguf"
+  },
+  "training": {
+    "training_args": {
+      "output_dir": "str(CKPT_DIR)",
+      "per_device_train_batch_size": 2,
+      "gradient_accumulation_steps": 4,
+      "num_train_epochs": 3,
+      "learning_rate": 0.0002,
+      "lr_scheduler_type": "cosine",
+      "warmup_ratio": 0.03,
+      "fp16": "not torch.cuda.is_bf16_supported()",
+      "bf16": "torch.cuda.is_bf16_supported()",
+      "logging_steps": 10,
+      "eval_strategy": "epoch",
+      "save_strategy": "epoch",
+      "save_total_limit": 3,
+      "load_best_model_at_end": true,
+      "metric_for_best_model": "eval_loss",
+      "greater_is_better": false,
+      "seed": "SEED",
+      "report_to": "none"
+    },
+    "lora_kwargs": {
+      "r": 16,
+      "lora_alpha": 16,
+      "lora_dropout": 0,
+      "target_modules": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj",
+        "gate_proj",
+        "up_proj",
+        "down_proj"
+      ],
+      "bias": "none",
+      "use_gradient_checkpointing": "unsloth",
+      "random_state": "SEED"
+    },
+    "notebook_was_executed": false
+  },
+  "exec_logs": null,
+  "metrics": {
+    "json_validity": {
+      "base_pct": 88.33333333333333,
+      "finetuned_pct": 100.0,
+      "improvement_pp": 11.66666666666667
+    },
+    "aspect_f1": {
+      "base_pct": 30.448717948717942,
+      "finetuned_pct": 44.936708860759495,
+      "improvement_pp": 14.487990912041553
+    },
+    "polarity_accuracy": {
+      "base_pct": 77.89473684210526,
+      "finetuned_pct": 78.87323943661971,
+      "improvement_pp": 0.9785025945144521
+    },
+    "joint_f1": {
+      "base_pct": 23.71794871794872,
+      "finetuned_pct": 35.44303797468354,
+      "improvement_pp": 11.725089256734824
+    }
+  },
+  "n_test": 300,
+  "adapter_tensor_count": 392
+}
